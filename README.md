@@ -1,4 +1,4 @@
-cker — Real-Time Crypto Intelligence API
+﻿# DexTracker — Real-Time Crypto Intelligence API
 
 **DexTracker** is your ultimate solution for monitoring and analyzing on-chain and exchange activity in **real time**. Whether you're a **developer**, **product builder**, or **crypto trader**, DexTracker delivers **fast**, **affordable**, and **reliable** access to critical crypto data — right when you need it.
 
