@@ -1,4 +1,4 @@
-# 
+﻿# Cex Orderbook API
 
 ```
 https://api.cryptoscan.pro/depth?exchange=&symbol=
