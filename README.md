@@ -43,7 +43,7 @@
 
 ## 🔗 Get Started Today
 
-Visit **[DexTracker.ai](https://DexTracker.ai)** to sign up and start streaming real-time crypto intelligence in minutes.
+Visit **[CryptoScan.pro](https://CryptoScan.pro)** to sign up and start streaming real-time crypto intelligence in minutes.
 
 ---
 
