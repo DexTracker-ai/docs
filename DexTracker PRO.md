@@ -1,4 +1,4 @@
-# DexTracker PRO
+# 💻 DexTracker PRO
 
 Private API endpoint to get fastest information with no limits
 

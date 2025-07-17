@@ -1,4 +1,4 @@
-# Supported Exchanges
+# 🏪 Supported Exchanges
 
 **Decentralized Exchanges**
 - Raydium

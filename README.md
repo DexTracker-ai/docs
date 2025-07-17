@@ -1,51 +1,77 @@
-﻿# DexTracker — Real-Time Crypto Intelligence API
+﻿# DexTracker — Real-Time Crypto Intelligence & Trading Edge
 
-**DexTracker** is your ultimate solution for monitoring and analyzing on-chain and exchange activity in **real time**. Whether you're a **developer**, **product builder**, or **crypto trader**, DexTracker delivers **fast**, **affordable**, and **reliable** access to critical crypto data — right when you need it.
+**DexTracker** is your all-in-one platform for real-time crypto intelligence: a fast, developer-friendly API + a powerful dashboard for traders.
 
----
-
-## 🔍 What DexTracker Offers
-
-- **📈 Live Transaction Tracking**  
-  Monitor token transfers, swaps, mints, burns, and wallet activity across top **DEXes** and **CEXes** — with minimal latency.
-
-- **💰 Real-Time Price Feeds**  
-  Accurate and up-to-the-second price data from decentralized and centralized exchanges — aggregated and normalized for easy use.
-
-- **📊 Deep Analytics**  
-  On-chain metrics, liquidity snapshots, volume trends, and arbitrage opportunities — at your fingertips.
-
-- **⚡ Ultra-Fast API**  
-  Built for performance, our infrastructure handles millions of events per day — with speeds optimized for real-time applications.
-
-- **💡 Developer-Friendly**  
-  Easy-to-integrate API endpoints, WebSocket streams, and SDKs designed for fast prototyping and production-scale apps.
+Whether you're a **developer**, **builder**, or **crypto trader**, DexTracker helps you **monitor**, **analyze**, and **act** on both on-chain and exchange activity — instantly.
 
 ---
 
-## 🎯 Use Cases
+## 🚀 What DexTracker Delivers
 
-- **Build smarter trading bots** with instant access to swap data and price movements  
-- **Power your dashboards** with live token metrics and liquidity insights  
-- **Detect market opportunities** before the crowd — with real-time alerts  
-- **Develop DeFi products** that react to blockchain events as they happen  
+### 🔄 Unified Price Aggregation
 
----
+Stop checking multiple DEXes — DexTracker shows:
 
-## ✅ Why Choose DexTracker?
+- Prices across **all pools**, **networks**, and **CEXs**
+- **Price differences** between sources  
+- **Liquidity depth** between levels: know how much $ you’ll *actually* get on entry/exit  
+- Clear, intuitive charting — safer for your capital, faster for your decisions
 
-- 🚀 Blazing-fast response times  
-- 💸 Affordable pricing tailored to startups and scale-ups  
-- 🛠️ Built by devs, for devs — with clear docs and top-tier support  
-- 🌍 Supports multiple chains and major CEX/DEX platforms
+### 📡 Real-Time Data, Zero Delay
 
----
-
-## 🔗 Get Started Today
-
-Visit **[CryptoScan.pro](https://CryptoScan.pro)** to sign up and start streaming real-time crypto intelligence in minutes.
+- **Live transaction tracking**: swaps, transfers, wallet flows  
+- **Accurate price feeds** from DEXes and CEXes  
+- **Liquidity and volume trends** across chains  
+- **Fast WebSocket/API** infrastructure built for scale
 
 ---
 
-> ⚠️ Don’t get left behind in the fast-moving world of crypto — stay ahead with **DexTracker**.
+## 💹 Advanced Trading Dashboard
 
+For traders who want an edge:
+
+- **Buy/sell panel** with best price aggregation  
+- **Smart charts** showing pool/CEX/network spreads  
+- **Real-time trade feed** with volume filters  
+- **Order book depth** visualized by levels  
+- **Wallet analysis**: holdings, PnL, balance dynamics  
+- **Trending tokens**: volume spikes, insider moves, scams, listings
+
+---
+
+## 🏆 Bonus Referral System — Earn While You Trade
+
+Every referral link is a league. Every week — a giveaway.
+
+- Top 10 referrers by volume earn **1% of platform fees**
+- Referral code owners get **20% of their team’s contribution**
+- All users enter weekly prize draws — big wins possible even with low volume
+
+**DexTracker** rewards the active. Trade, refer, earn.
+
+---
+
+## 🧰 For Developers & Builders
+
+- 🚀 Blazing-fast API  
+- 🛠️ Clean SDKs & WebSocket streams  
+- 📚 Straightforward docs  
+- 🌉 Multi-chain + CEX/DEX support  
+- 💸 Affordable for startups, scalable for enterprises
+
+### Use Cases:
+
+- Build **trading bots** with instant price and swap data  
+- Power **dashboards** with real-time metrics  
+- Launch **DeFi tools** that react to on-chain events  
+- Detect **arbitrage and whale activity** before the crowd  
+
+---
+
+## 🔗 Get Started Now
+
+Visit **[DexTracker.pro](https://dextracker.pro)** — start streaming crypto intelligence or gain a real-time trading advantage in minutes.
+
+---
+
+> 💡 Whether you trade or build — DexTracker gives you the **edge**.
