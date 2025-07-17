@@ -1,4 +1,6 @@
-﻿# DexTracker — Real-Time Crypto Intelligence & Trading Edge
+﻿# 💡 About DexTracker
+
+## DexTracker — Real-Time Crypto Intelligence & Trading Edge
 
 **DexTracker** is your all-in-one platform for real-time crypto intelligence: a fast, developer-friendly API + a powerful dashboard for traders.
 
