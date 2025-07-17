@@ -31,3 +31,5 @@
 
 We actively adding new exchanges. If you want to see a new exchange in the platform, write [Support](https://discord.gg/ktewAs67fE)
 
+If you have any questions, you can ask your trading questions in the official DexTracker group 👇🏻:<br>
+[@dextracker_pro](https://t.me/dextracker_pro)

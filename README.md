@@ -77,3 +77,6 @@ Visit **[DexTracker.pro](https://dextracker.pro)** — start streaming crypto in
 ---
 
 > 💡 Whether you trade or build — DexTracker gives you the **edge**.
+
+If you have any questions, you can ask your trading questions in the official DexTracker group 👇🏻:<br>
+[@dextracker_pro](https://t.me/dextracker_pro)

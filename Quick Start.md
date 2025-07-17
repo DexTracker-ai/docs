@@ -88,3 +88,6 @@ Learn more on [API Docs](./DexTracker%20API/)
 ## ⚠️ Disclaimer
 
 **Token security information and on-chain transaction data provided by GMGN are sourced from multiple third-party providers. They are provided for reference only and should not be considered investment advice. Token trading involves risks, so it is essential to conduct independent research and consider all potential risks. GMGN does not assume any responsibility for related issues.**
+
+If you have any questions, you can ask your trading questions in the official DexTracker group 👇🏻:<br>
+[@dextracker_pro](https://t.me/dextracker_pro)
