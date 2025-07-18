@@ -3,7 +3,7 @@
 Private API endpoint to get fastest information with no limits
 
 **Current Price**: $200/month
-**Contacts**: [https://t.me/daniil_jave](https://t.me/daniil_jave)
+**Contacts**: [Discord](https://discord.com/invite/ktewAs67fE)
 
 ## Listen All DEX Trades
 
